@@ -33,7 +33,7 @@ greeting:
 # - displayed at the bottom
 closing-head: What you’ll find here
 closing-para: 
-  Works. Project write-ups with code, screenshots, and what I’d do next.  Topics. Course notes and quick research summaries. Where I’ve been and what I shipped.
+  Project write-ups with code, screenshots, and what I’d do next. Course notes and quick research summaries. Where I’ve been and what I shipped.
 # on all pages (and the first three you list display with greeting, if included)
 social:
   github: https://github.com/notoctosting
