@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Building useful stuff at the edge of markets and ML.
-  text: I'm Ethan. I build ML-driven tools for trading, research, and visualization. BBA (Finance) + CS minor. Ex-Loftus Peak hedge fund. I like turning raw data into decisions and shipping simple products that work.
+  text: I'm Ethan. I build ML-driven tools for trading, research, and visualization. BBA (Finance) + CS minor. Loftus Peak hedge fund. I like turning raw data into decisions and shipping simple products that work.
 # - displayed at the bottom
 closing-head: What you’ll find here
 closing-para: 
