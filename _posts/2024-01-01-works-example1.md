@@ -4,10 +4,10 @@ title: Forex ML — Feature Pipelines & Strategy Backtests
 excerpt: 'End-to-end FX pipeline: ingest → features → models → walk-forward backtests.'
 categories: works
 background-image: works-sample.png
-# tags:
-#   - This
-#   - That
-#   - The other
+tags:
+  - Backtesting
+  - Feature Engineering
+  - Brokerage API's
 ---
 
 #### Results
